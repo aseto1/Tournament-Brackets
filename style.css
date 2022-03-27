@@ -35,7 +35,7 @@ input:focus, textarea:focus, select:focus{
 
 .bg-container{
 
-  background-image:url('bracket.png');
+  background-image:url('blackbracket.png');
   background-size:cover;
   background-size:contain;
   background-repeat:no-repeat;
